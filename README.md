@@ -1,4 +1,8 @@
 # go-react-example
+
+> #### DEPRECATED
+> It is highly recommend to use in real world projects []go-starter-kit](https://github.com/olebedev/go-starter-kit). This project done right and contains some good wins  for rapid development of efficient applications.
+
 This is an example of project which shows how to render React app on Golang server-side.  
 It's very similar to [andreypopp/react-quickstart](https://github.com/andreypopp/react-quickstart)(please see it first) project, but with some Go and other benefits.  
 
